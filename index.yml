@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
+id: course1
+title: CodePath Event Site Project
+level: beginner
+description: "This was started on 9/16/2026 as a project for WEB101: Intro to
+  Web Development."
+cardImageUrl: https://vscodeedu.com/assets/course-cards/card6.png
+contacts:
+  - displayName: Jai'La Logan
+    pictureUrl: https://avatars.githubusercontent.com/u/117966330?v=4
+    homePageUrl: https://github.com/JayNinee9
+units:
+  - id: unit1
+    title: Unit 1
+    lessons:
+      - id: lesson1
+        title: Lesson 1
+        lessonParts:
+          - id: lessonpart1
+            title: Page 1
